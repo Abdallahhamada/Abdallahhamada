@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdallahhamada
-- 👀 I’m interested in Webdevolopement
+- 👀 I’m interested in Webdevelopement
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me {{https://www.facebook.com/abdo.hamda2017}}
